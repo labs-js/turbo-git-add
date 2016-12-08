@@ -7,8 +7,6 @@
 
 # turbo-git-add
 
-Turbo git add command. Improvement on top of your git add command.
-
 
 **Turbo git add** -> Command for Improvement on top of your git add command.
 
