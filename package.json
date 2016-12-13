@@ -1,6 +1,6 @@
 {
   "name": "turbo-git-add",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Turbo git add command. Improvement on top of your git add command.",
   "main": "index.js",
   "scripts": {
