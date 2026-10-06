@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "inquirer": "^1.2.3",
-    "turbo-git-config": "file:../turbo-git-config"
+    "turbo-git-config": "^0.5.2"
   },
   "devDependencies": {
     "console-mock": "^1.0.24",
